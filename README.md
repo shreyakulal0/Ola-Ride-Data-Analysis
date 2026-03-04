@@ -24,7 +24,7 @@ The Power BI dashboard includes:
 
 📷 Dashboard Preview
 
-![Overall Dashboard](overall.png)
+<img width="1446" height="806" alt="image" src="https://github.com/user-attachments/assets/a4937d25-aad1-4a79-9216-d9ac97bca200" />
 
 🔍 Key Insights
 * Majority of rides are successfully completed
